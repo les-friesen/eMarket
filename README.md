@@ -1,5 +1,7 @@
 # eMarket
-    <img src='client/src/components/assets/E-marketlogo.png' style='width:35%' alt="logo">
+<div>
+    <img src='client/src/components/assets/E-marketlogo.png' style='width:25%' alt="logo">
+</div>
 </br>
 
 - Video demo availalbe at https://www.youtube.com/watch?v=039IS2WXHfA
