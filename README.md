@@ -1,10 +1,5 @@
-
-# <div style="text-align: center">
- # eMarket
-
- <div>
+# eMarket
     <img src='client/src/components/assets/E-marketlogo.png' style='width:35%' alt="logo">
-</div>
 </br>
 
 - Video demo availalbe at https://www.youtube.com/watch?v=039IS2WXHfA
@@ -29,7 +24,6 @@
 - Browse feature with category filters and pagination (50 items per page)
 - Persistent cart data (via MongoDb)
 - Client-side form verification to ensure users do not select quantities greater than the amount in stock for each item. 
-- 
 
 # Setup
 
